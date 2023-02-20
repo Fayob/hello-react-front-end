@@ -51,7 +51,6 @@ In order to run this project you need:
 
 - A text editor preferably [Visual Studio code](https://code.visualstudio.com/)
 - Latest version of [React](https://www.ruby-lang.org/en/downloads/) installed
-<!-- - [PostgreSQL Server](https://www.postgresql.org/download/) -->
 
 
 ### Setup
