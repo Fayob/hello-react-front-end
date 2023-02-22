@@ -26,7 +26,7 @@
 
 # 📖 Hello-Rails-React  <a name="about-project"></a>
 
-This app is all about building rails Api.
+This app is all about building a front end that fetches data from my rails backend API.
 
 
 ## 🛠 Built With <a name="built-with"></a>
